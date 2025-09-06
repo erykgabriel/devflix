@@ -89,8 +89,12 @@ body {
 
 .template-filmes .filme img{
     max-width: 100%;
+    
 }
 
 .footer {
     grid-area: footer;
+    color: gold;
+    text-align: center;
+     font-size: 20px;
 }
